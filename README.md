@@ -38,8 +38,6 @@
 <a href="https://instagram.com/abhinaavchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinaavchauhan" height="30" width="40" /></a>
 <a href="https://leetcode.com/abhinaavchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinaavchauhan" height="30" width="40" /></a>
 </p>
-
-
 ---
 
 ### ⚙️ Tech Stack
