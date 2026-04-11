@@ -19,9 +19,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinaavchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaavchauhan" /> </p>
 
-
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Abhinav Chauhan</h1>
-<h3 align="center">Driven by curiosity, secured by design, and engineered for impact 🔐</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00CFFF&center=true&vCenter=true&lines=Software+Developer;Driven+by+curiosity;Building+Real+World+Projects;Secured+by+design+🔐" />
+</p>
+
+<!-- <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Abhinav Chauhan</h1>
+<h3 align="center">Driven by curiosity, secured by design, and engineered for impact 🔐</h3> -->
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
