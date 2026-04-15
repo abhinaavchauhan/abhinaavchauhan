@@ -45,6 +45,7 @@
 </p>
 
 ---
+
 ### 🐍 Snake Animation
 
 <div align="center">
